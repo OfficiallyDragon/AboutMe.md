@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DragonGamesDev
 - 👀 I’m interested in. Game dev + more!
-- 🌱 I’m currently learning. discord.js, C#, C++ And [UE5 Blueprints](https://docs.unrealengine.com/5.2/en-US/blueprints-visual-scripting-in-unreal-engine/))!
+- 🌱 I’m currently learning. [discord.js](https://discord.js.org/docs/packages/core/0.6.0), [C#](https://learn.microsoft.com/en-us/dotnet/csharp/), [C++](https://learn.microsoft.com/en-us/cpp/) And [UE5 Blueprints](https://docs.unrealengine.com/5.2/en-US/blueprints-visual-scripting-in-unreal-engine/))!
 - 📫 How to reach me. check out my [website](https://dexterwheatcroft.uk)!
 
 <!---
